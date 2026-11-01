@@ -149,6 +149,14 @@ FoodSave Smart was evaluated using backend and frontend automated test suites.
 | JavaScript Frontend and API Contracts | 30/30 |
 | **Total** | **76/76** |
 
+
+### Automated Testing Results
+
+![FoodSave Smart automated testing results](portfolio/foodsave_smart_final_test_chart.png)
+
+*Figure 1. Automated testing results: 46 backend and 30 frontend tests passed (76 tests in total).*
+
+
 Testing covered:
 
 - Expiry-based discount calculations.
