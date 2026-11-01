@@ -84,6 +84,15 @@ The pricing rules are calculated on the backend.
 - Reservation cancellation and stock restoration.
 - Prevention of reservations for expired or unavailable products.
 
+
+### Food Reservation Management
+
+The application allows authenticated users to reserve available food, view their reservation history and cancel pending reservations.
+
+![FoodSave Smart reservation management](portfolio/Figure%204%20%E2%80%93%20Food%20Reservation%20Management.png)
+
+*Figure 4. FoodSave Smart reservation management interface showing a pending Bread Pack reservation and the cancellation option.*
+
 ### Authentication and Access Control
 
 - User registration and login.
