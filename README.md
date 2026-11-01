@@ -93,6 +93,16 @@ The application allows authenticated users to reserve available food, view their
 
 *Figure 4. FoodSave Smart reservation management interface showing a pending Bread Pack reservation and the cancellation option.*
 
+
+### Reservation Cancellation
+
+The application allows users to cancel pending reservations. After cancellation, the reservation status changes to CANCELLED and the reservation is no longer counted as active.
+
+![FoodSave Smart cancelled reservation](portfolio/foodsave_smart_reservation_cancellation.png)
+
+*Figure 5. FoodSave Smart reservation cancellation, showing the Bread Pack reservation with CANCELLED status.*
+
+
 ### Authentication and Access Control
 
 - User registration and login.
