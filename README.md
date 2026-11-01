@@ -28,6 +28,17 @@ The solution was designed and evaluated as a working academic prototype using de
 
 ---
 
+## Application Preview
+
+The screenshot below shows the deployed FoodSave Smart interface, including the main landing page, product catalogue, search functionality and available food listings.
+
+![FoodSave Smart homepage and product catalogue](portfolio/foodsave_smart_product_catalogue.png)
+
+*Figure 1. FoodSave Smart web application showing the homepage and surplus-food catalogue.*
+ 
+---
+
+
 ## Live Application
 
 **Frontend:** [Open FoodSave Smart](https://foodsave-smart-1.onrender.com/)
@@ -154,7 +165,7 @@ FoodSave Smart was evaluated using backend and frontend automated test suites.
 
 ![FoodSave Smart automated testing results](portfolio/foodsave_smart_final_test_chart.png)
 
-*Figure 1. Automated testing results: 46 backend and 30 frontend tests passed (76 tests in total).*
+*Figure 2. Automated testing results: 46 backend and 30 frontend tests passed (76 tests in total).*
 
 
 Testing covered:
