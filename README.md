@@ -100,6 +100,17 @@ The pricing rules are calculated on the backend.
 - Reservation restrictions during unsafe temperature conditions.
 - Authorised temperature simulation.
 
+  
+### Temperature Monitoring Dashboard
+
+The dashboard distinguishes between the physical ESP32 sensor and the software-based temperature simulator. The recorded demonstration shows a simulated SAFE temperature of 4.5°C, while the physical sensor is marked OFFLINE and displays its last reported reading.
+
+![FoodSave Smart temperature monitoring dashboard](portfolio/foodsave_smart_temperature_monitoring.png)
+
+*Figure 3. FoodSave Smart temperature monitoring dashboard showing simulated SAFE conditions and the physical ESP32 sensor's offline status.*
+
+
+
 ### Database Integration
 
 A relational MySQL database stores application data including users, food batches, reservations, refrigeration information and temperature readings.
